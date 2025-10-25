@@ -1,1 +1,2 @@
-# Fitness Center Membership & Trainer Scheduling System
+# PetCare Connect – Veterinary & Pet Owner 
+RelaƟonship Management CRM
